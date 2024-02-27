@@ -11,6 +11,9 @@ pprint.pprint(json_response)
 print(json_response['data'])
 print(json_response['headers']['Content-Type'])
 
-
+"""понаписал
+тут
+всего
+"""
 def f():
-    pass
+    a=1
