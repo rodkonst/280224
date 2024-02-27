@@ -10,3 +10,7 @@ json_response = response.json()
 pprint.pprint(json_response)
 print(json_response['data'])
 print(json_response['headers']['Content-Type'])
+
+
+def f():
+    pass
